@@ -1,2 +1,2 @@
 # CRT_DAY6
-fro practice
+for practice
